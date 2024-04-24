@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\JedMain\DmaCSharp03\FirstConsoleApp\objectType\bin\Debug\net7.0\objectType.exe
+C:\Users\HP\Desktop\JedMain\DmaCSharp03\FirstConsoleApp\objectType\bin\Debug\net7.0\objectType.deps.json
+C:\Users\HP\Desktop\JedMain\DmaCSharp03\FirstConsoleApp\objectType\bin\Debug\net7.0\objectType.runtimeconfig.json
+C:\Users\HP\Desktop\JedMain\DmaCSharp03\FirstConsoleApp\objectType\bin\Debug\net7.0\objectType.dll
+C:\Users\HP\Desktop\JedMain\DmaCSharp03\FirstConsoleApp\objectType\bin\Debug\net7.0\objectType.pdb
+C:\Users\HP\Desktop\JedMain\DmaCSharp03\FirstConsoleApp\objectType\obj\Debug\net7.0\objectType.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\JedMain\DmaCSharp03\FirstConsoleApp\objectType\obj\Debug\net7.0\objectType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\JedMain\DmaCSharp03\FirstConsoleApp\objectType\obj\Debug\net7.0\objectType.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\JedMain\DmaCSharp03\FirstConsoleApp\objectType\obj\Debug\net7.0\objectType.AssemblyInfo.cs
+C:\Users\HP\Desktop\JedMain\DmaCSharp03\FirstConsoleApp\objectType\obj\Debug\net7.0\objectType.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\JedMain\DmaCSharp03\FirstConsoleApp\objectType\obj\Debug\net7.0\objectType.dll
+C:\Users\HP\Desktop\JedMain\DmaCSharp03\FirstConsoleApp\objectType\obj\Debug\net7.0\refint\objectType.dll
+C:\Users\HP\Desktop\JedMain\DmaCSharp03\FirstConsoleApp\objectType\obj\Debug\net7.0\objectType.pdb
+C:\Users\HP\Desktop\JedMain\DmaCSharp03\FirstConsoleApp\objectType\obj\Debug\net7.0\objectType.genruntimeconfig.cache
+C:\Users\HP\Desktop\JedMain\DmaCSharp03\FirstConsoleApp\objectType\obj\Debug\net7.0\ref\objectType.dll
