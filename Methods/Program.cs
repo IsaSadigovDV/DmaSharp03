@@ -56,7 +56,9 @@
 //	return a+b;
 //}
 #endregion
-
+// git add .
+// git commit -m "commit"
+//git push
 
 int[] numbers = { 10, 5, 8, 20, 15 };
 //        0,  1, 2,  3, 4
@@ -75,3 +77,8 @@ void arrEnBoyuk(int[] numbers)
 	}
 	Console.WriteLine(arrEnBoyuk);
 }
+
+Console.WriteLine();
+Console.WriteLine();
+Console.WriteLine();
+Console.WriteLine();
